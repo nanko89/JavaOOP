@@ -1,4 +1,4 @@
-package glacialExpedition137.core;
+package glacialExpedition.core;
 
 public interface Controller {
     String addExplorer(String type, String explorerName);

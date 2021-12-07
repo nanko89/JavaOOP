@@ -1,4 +1,4 @@
-package glacialExpedition137.models.suitcases;
+package glacialExpedition.models.suitcases;
 
 import java.util.Collection;
 

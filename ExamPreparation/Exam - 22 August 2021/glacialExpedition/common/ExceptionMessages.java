@@ -1,4 +1,4 @@
-package glacialExpedition137.common;
+package glacialExpedition.common;
 
 public class ExceptionMessages {
     public static final String EXPLORER_NAME_NULL_OR_EMPTY = "Explorer name cannot be null or empty.";

@@ -1,6 +1,6 @@
-package glacialExpedition137.models.explorers;
+package glacialExpedition.models.explorers;
 
-import glacialExpedition137.models.suitcases.Suitcase;
+import glacialExpedition.models.suitcases.Suitcase;
 
 public interface Explorer {
     String getName();

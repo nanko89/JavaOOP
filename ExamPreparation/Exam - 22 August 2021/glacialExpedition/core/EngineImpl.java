@@ -1,6 +1,6 @@
-package glacialExpedition137.core;
+package glacialExpedition.core;
 
-import glacialExpedition137.common.Command;
+import glacialExpedition.common.Command;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package glacialExpedition137.common;
+package glacialExpedition.common;
 
 public class ConstantMessages {
     public static final String EXPLORER_ADDED = "Added %s: %s.";
